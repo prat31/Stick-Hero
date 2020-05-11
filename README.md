@@ -1,5 +1,5 @@
 # Stick-Hero
-Stick Hero is a fairly simple *Android* game which can be downloader from <a href="https://play.google.com/store/apps/details?id=com.ketchapp.stickhero&hl=en_IN" alt="here">here.</a>
+Stick Hero is a fairly simple *Android* game which can be downloader from <a target ="_blank" href="https://play.google.com/store/apps/details?id=com.ketchapp.stickhero&hl=en_IN" alt="here">here.</a>
 
 The python script requires three libraries : 
 1. ppadb (Pure Python ADB)
